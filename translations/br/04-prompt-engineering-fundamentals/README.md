@@ -178,7 +178,7 @@ O segmento de conteúdo principal pode ser usado de várias maneiras para impuls
 - **Modelos** - são 'receitas' repetíveis para prompts com espaços reservados (variáveis) que podem ser personalizadas com dados para casos de uso específicos.
 
 
-Finalmente, o verdadeiro valor dos modelos está na capacidade de criar e publicar _bibliotecas de prompts_ para domínios de aplicação vertical - onde o modelo de prompt agora está _otimizado_ para refletir o contexto ou exemplos específicos da aplicação que tornam as respostas mais relevantes e precisas para o público-alvo. O repositório [Prompts For Edu](https://github.com/microsoft/prompts-for-edu?WT.mc_id=academic-105485-koreyst) é um ótimo exemplo dessa abordagem, curando uma biblioteca de prompts para o domínio da educação com ênfase em objetivos-chave como planejamento de aulas, design curricular, tutoria de estudantes, etc.
+Finalmente, o verdadeiro valor dos modelos está na capacidade de criar e publicar _bibliotecas de prompts_ para domínios de aplicação vertical - onde o modelo de prompt agora está _otimizado_ para refletir o contexto ou exemplos específicos da aplicação que tornam as respostas mais relevantes e precisas para o público-alvo. O repositório [Prompts para Educação](https://github.com/microsoft/prompts-for-edu?WT.mc_id=academic-105485-koreyst) é um ótimo exemplo dessa abordagem, curando uma biblioteca de prompts para o domínio da educação com ênfase em objetivos-chave como planejamento de aulas, design curricular, tutoria de estudantes, etc.
 
 ## Conteúdo de Apoio
 
